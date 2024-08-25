@@ -1,6 +1,3 @@
-Here's the documentation for the MIT App Inventor extension based on the provided screenshots and description of the blocks:
-
----
 
 # MIT App Inventor Extension: InstallReferrer
 
